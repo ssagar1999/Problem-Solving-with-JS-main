@@ -195,4 +195,3 @@ Write a JavaScript function called countVowels that takes a string as input and 
 4. Feel free to contribute additional problems or improvements.
 
 # CODING MATLAB CODING BLOCKS
-!
